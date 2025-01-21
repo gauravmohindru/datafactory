@@ -1,0 +1,9 @@
+{
+	"name": "testadf123git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "969e908d-fbd9-4b11-b45e-fc3a99593231",
+		"tenantId": "351ea326-1a66-4da2-addd-15d37c541283"
+	}
+}
